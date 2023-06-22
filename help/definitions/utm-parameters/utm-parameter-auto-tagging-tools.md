@@ -1,12 +1,12 @@
 ---
 title: Verktyg för automatisk taggning av UTM-parametrar
 description: Håll en kort diskussion om några UTM-generatorverktyg.
-kt: 11235
+jira: KT-11235
 thumbnail: 347201.jpeg
 exl-id: 68928613-aef1-4560-987f-2093dfef7977
-source-git-commit: 9e38b740e29a827d5d64ef4e7fbf9e18dcf30643
+source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---

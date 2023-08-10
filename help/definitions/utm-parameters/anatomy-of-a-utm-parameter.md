@@ -4,7 +4,8 @@ description: Få en översikt över en UTM tillsammans med hur de är konfigurer
 jira: KT-11232
 thumbnail: 347199.jpeg
 exl-id: 8bb6de32-8ad5-4d1c-883d-03979992a363
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: UTM Parameters
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%

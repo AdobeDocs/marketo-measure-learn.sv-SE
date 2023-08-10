@@ -8,7 +8,8 @@ last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11684
 thumbnail: 347239.jpeg
 exl-id: f04bda49-e8b8-4759-8634-6af2034bcab7
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Salesforce, Reporting
+source-git-commit: 00955614c945822dc1889fb22db17b5f51a8f659
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%

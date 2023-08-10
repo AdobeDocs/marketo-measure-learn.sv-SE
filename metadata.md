@@ -1,13 +1,14 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Measure
+feature-set: Marketo Measure
 product: Marketo
 type: Tutorial
 doc-type: video
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-measure-learn.sv-SE
 index: true
-source-git-commit: c117379c3b57dffa24d06131f6b5267d80efb11b
+source-git-commit: 85d109f25e71ea0888d873792a348c255c9876f0
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

@@ -4,7 +4,8 @@ description: Se den andra lektionen i kursserien i Boomerang. Ta den första lek
 jira: KT-11243
 thumbnail: 347225.jpeg
 exl-id: 01d5846a-1a00-43e8-8032-90e37182772f
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Boomerang
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

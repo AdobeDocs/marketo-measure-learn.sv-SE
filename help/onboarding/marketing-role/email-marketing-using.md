@@ -9,9 +9,9 @@ jira: KT-11677
 thumbnail: 347170.jpeg
 exl-id: 9487deb4-f0ac-4ec2-a1f1-d3e24260be23
 feature: Fundamentals
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här lektionen får du en snabb demonstration av hur e-postmarknadsförare kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
 
->[!VIDEO](https://video.tv.adobe.com/v/347170/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){trancript=true}

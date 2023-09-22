@@ -9,9 +9,9 @@ jira: KT-11700
 thumbnail: 347218.jpeg
 exl-id: b31a4098-cb01-408c-9b29-28f5c139d3dc
 feature: CRM Objects
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Se en beskrivning av relationen mellan standard-CRM-objekt och [!DNL Marketo Measure] anpassade objekt och fält.
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){trancript=true}

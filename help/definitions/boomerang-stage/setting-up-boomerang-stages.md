@@ -5,9 +5,9 @@ jira: KT-11243
 thumbnail: 347225.jpeg
 exl-id: 01d5846a-1a00-43e8-8032-90e37182772f
 feature: Boomerang
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Se den andra lektionen i kursserien i Boomerang. Ta den första lektionen innan du tittar på den här. Här beskrivs hur du konfigurerar [!UICONTROL Boomerang Stages] in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){trancript=true}

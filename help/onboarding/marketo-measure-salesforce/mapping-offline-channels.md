@@ -9,9 +9,9 @@ jira: KT-11691
 thumbnail: 347249.jpeg
 exl-id: 47891628-bbb2-440c-b843-27dc9f1cca54
 feature: Channels
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här lektionen beskrivs hur du mappar offlinekanaler till [!DNL Marketo Measure] med Salesforce Campaign-objektet och kampanjtypsfältet.
 
->[!VIDEO](https://video.tv.adobe.com/v/347249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){trancript=true}

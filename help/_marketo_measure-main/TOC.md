@@ -2,10 +2,11 @@
 user-guide-title: "[!DNL Marketo Measure] Självstudiekurser"
 breadcrumb-title: "[!DNL Marketo Measure] Självstudiekurser"
 user-guide-description: Lär dig få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] grunder och definitioner.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -31,7 +32,7 @@ ht-degree: 2%
       + [Varför [!DNL Marketo Measure] för e-postmarknadsföring](/help/onboarding/marketing-role/email-marketing-why.md)
       + [Använd [!DNL Marketo Measure] som e-postmarknadsförare](/help/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101{#marketo-measure-101}
-      + [Vad är attribuering?](/help/onboarding/marketo-measure-101/what-is-attribution.md)
+      + [Vad är attribuering](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [Vad är [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure data](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [Pekpunkter](/help/onboarding/marketo-measure-101/touchpoints.md)
@@ -40,7 +41,7 @@ ht-degree: 2%
       + [The [!DNL Marketo Measure] ROI-instrumentpaneler](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce-rapporter för Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Ytterligare Salesforce-rapporter](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [data warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] och Salesforce{#marketo-measure-salesforce}
       + [Leads efter ID-rapport](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Skapa kanaler och delkanaler](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -50,7 +51,7 @@ ht-degree: 2%
       + [Synkronisera offlinekampanjer](/help/onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
    + Grundläggande{#fundamentals}
       + [Undertryckning av kontaktpunkt](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
-      + [Verksamhetsattribuering](/help/onboarding/fundamentals/activities-attribution.md)
+      + [Verksamhetstilldelning](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Upptäck{#marketo-measure-discover}
    + [Introduktion till [!DNL Marketo Measure] Upptäck](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
 + Definitioner{#definitions}
@@ -59,8 +60,8 @@ ht-degree: 2%
       + [Milstolpekontaktytor](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Pekpunktskomponenter](/help/definitions/touchpoints/touchpoint-components.md)
       + [Kontaktpunkter online och offline](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Attribut{#attribution}
-      + [Vad är attribuering?](/help/definitions/attribution/what-is-attribution.md)
+   + Tillskrivning{#attribution}
+      + [Vad är attribuering](/help/definitions/attribution/what-is-attribution.md)
       + [Attributionsmodeller](/help/definitions/attribution/attribution-models.md)
       + [Första pekmodellen](/help/definitions/attribution/first-touch-model.md)
       + [Modell för att skapa leads](/help/definitions/attribution/lead-creation-model.md)
@@ -68,7 +69,7 @@ ht-degree: 2%
       + [W-formad modell](/help/definitions/attribution/w-shaped-model.md)
       + [Fullständig sökvägsmodell](/help/definitions/attribution/full-path-model.md)
    + CRM-objekt{#crm-objects}
-      + [Översikt över [!DNL Marketo Measure] taxonomi](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [Översikt [!DNL Marketo Measure] taxonomi](/help/definitions/crm-objects/taxonomy-overview.md)
       + [CRM-objekt](/help/definitions/crm-objects/crm-objects.md)
       + [Leadobjekt](/help/definitions/crm-objects/lead-object.md)
       + [Kontaktobjekt](/help/definitions/crm-objects/contact-object.md)

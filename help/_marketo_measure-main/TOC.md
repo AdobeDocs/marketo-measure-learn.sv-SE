@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Självstudiekurser"
 breadcrumb-title: "[!DNL Marketo Measure] Självstudiekurser"
 user-guide-description: Lär dig få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] grunder och definitioner.
 auto-video-transcripts: true
-source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
+source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,18 @@ ht-degree: 3%
    + [Dela och dölja rapporter och kontrollpaneler](/help/installing/sharing-reports-production.md)
    + [Skapa [!DNL Marketo Measure] konto](/help/installing/creating-marketo-measure-account-production.md)
 + Onboarding{#onboarding}
+   + Bästa praxis{#best-practices}
+      + [Granska rapportinställningar (pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+      + [Granska inställningar för kanaler och integrering (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
+      + [CRM-inställningar (pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+      + [Inställningar för leads, kontakter och säljprojekt](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+      + [Inställningar för onlinekanal](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Översikt över annonsanslutning](/help/onboarding/fundamentals/ads-connection-overview.md)
+      + [SFDC-installationsöversikt](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [Inställningar för offlinekanal](/help/onboarding/fundamentals/offline-channel-setup.md)
+      + [Koppling till Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [Kontaktpunkter för aktivitet](/help/onboarding/fundamentals/activity-touchpoints.md)
+      + [Undertryckande, segmentering och kostnad](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Marknadsföringsroll{#marketing-role}
       + [Varför [!DNL Marketo Measure] för marknadschefer och leverantörer](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Använda [!DNL Marketo Measure] som marknadschef eller VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
@@ -54,6 +66,9 @@ ht-degree: 3%
       + [Verksamhetstilldelning](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Upptäck{#marketo-measure-discover}
    + [Introduktion till [!DNL Marketo Measure] Upptäck](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [Bestäm vilken kanal som fungerar (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+   + [Bestäm vilken kanal som fungerar (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+   + [Discover Trnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definitioner{#definitions}
    + Pekpunkter{#touchpoints}
       + [Vad är en kontaktyta?](/help/definitions/touchpoints/what-is-a-touchpoint.md)

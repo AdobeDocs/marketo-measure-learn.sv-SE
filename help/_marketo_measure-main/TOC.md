@@ -3,7 +3,7 @@ user-guide-title: "[!DNL Marketo Measure] Självstudiekurser"
 breadcrumb-title: "[!DNL Marketo Measure] Självstudiekurser"
 user-guide-description: Lär dig få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] grunder och definitioner.
 auto-video-transcripts: true
-source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
+source-git-commit: 1e0a4e4b256f47d7c04455990083c4044cd04284
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 2%

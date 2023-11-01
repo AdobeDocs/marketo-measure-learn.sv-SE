@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Självstudiekurser"
 breadcrumb-title: "[!DNL Marketo Measure] Självstudiekurser"
 user-guide-description: Lär dig få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information om  och definitioner.
 auto-video-transcripts: true
-source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
+source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '313'
 ht-degree: 5%
 
 ---
@@ -66,6 +66,9 @@ ht-degree: 5%
       + [Verksamhetstilldelning](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Upptäck{#marketo-measure-discover}
    + [Introduktion till [!DNL Marketo Measure] Upptäck](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [Kontrollpanel för översikt](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
+   + [Identifiera attributerad intäkt](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
+   + [Upptäck ROI Dashboard](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Bestäm vilken kanal som fungerar (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bestäm vilken kanal som fungerar (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover Trnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)

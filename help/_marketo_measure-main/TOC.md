@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Självstudiekurser"
 breadcrumb-title: "[!DNL Marketo Measure] Självstudiekurser"
 user-guide-description: Lär dig få ut det mesta av  [!DNL Adobe Marketo Measure]  (tidigare  [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
 auto-video-transcripts: true
-source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
+source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '325'
 ht-degree: 7%
 
 ---
@@ -72,6 +72,8 @@ ht-degree: 7%
    + [Bestäm vilken kanal som fungerar (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bestäm vilken kanal som fungerar (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover Trnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ [!DNL Marketo Measure] Live Chatt {#live-chat}
+   + [Marknadsattribuering och mått](/help/_assets/marketing attribution and metrics.md)
 + Definitioner{#definitions}
    + Pekpunkter{#touchpoints}
       + [Vad är en kontaktyta?](/help/definitions/touchpoints/what-is-a-touchpoint.md)

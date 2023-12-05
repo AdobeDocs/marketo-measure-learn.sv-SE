@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Självstudiekurser"
-breadcrumb-title: "[!DNL Marketo Measure] Självstudiekurser"
-user-guide-description: Lär dig få ut det mesta av  [!DNL Adobe Marketo Measure]  (tidigare  [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: Lär dig få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 7%
+source-wordcount: '319'
+ht-degree: 3%
 
 ---
 
@@ -72,15 +72,13 @@ ht-degree: 7%
    + [Bestäm vilken kanal som fungerar (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bestäm vilken kanal som fungerar (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover Trnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Live Chatt {#live-chat}
-   + [Marknadsattribuering och mått](/help/_assets/marketing attribution and metrics.md)
 + Definitioner{#definitions}
    + Pekpunkter{#touchpoints}
       + [Vad är en kontaktyta?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Milstolpekontaktytor](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Pekpunktskomponenter](/help/definitions/touchpoints/touchpoint-components.md)
       + [Kontaktpunkter online och offline](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Tillskrivning{#attribution}
+   + Attribut{#attribution}
       + [Vad är attribuering](/help/definitions/attribution/what-is-attribution.md)
       + [Attributionsmodeller](/help/definitions/attribution/attribution-models.md)
       + [Första pekmodellen](/help/definitions/attribution/first-touch-model.md)
@@ -112,3 +110,5 @@ ht-degree: 7%
    + Boomerang Stage{#boomerang-stage}
       + [Introduktion till bommangfaser](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Konfigurera boomerang-faser](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Evangelist talar {#evangelist}
+   + [Marknadsattribuering och mätvärden](/help/evangelist-talks/attribution-and-metrics.md)

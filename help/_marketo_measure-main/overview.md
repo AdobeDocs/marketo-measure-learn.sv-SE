@@ -4,10 +4,10 @@ recommendations: noDisplay, noCatalog
 description: Få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare känt som [!DNL Bizible]), branschens ledande program för B2B-marknadsföring.
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
-source-git-commit: 3a3c7d0066e696728df7c114938a365972df9f74
+source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 2%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
@@ -23,3 +23,8 @@ Den här användarhandboken innehåller videor och självstudiekurser om Marketo
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
+## Experience League Live-event
+
+* **[Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+  *Läs om de nya, helt omgjorda Discover Dashboards.*

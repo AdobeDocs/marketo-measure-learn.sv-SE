@@ -1,6 +1,6 @@
 ---
-title: Använda [!DNL Marketo Measure] som marknadschef eller VP
-description: I den här lektionen får du en snabb demonstration av hur marknadschefer och andra ledande marknadschefer kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+title: Använda [!DNL Marketo Measure]  som marknadschef eller VP
+description: I den här lektionen får du en snabb demonstration av hur marknadschefer och andra ledande marknadsföringschefer kan använda  [!DNL Marketo Measure]  i sin jobbroll.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Använda [!DNL Marketo Measure] som marknadschef eller VP
 
-I den här lektionen får du en snabb demonstration av hur marknadschefer och andra ledande marknadschefer kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+I den här lektionen får du en snabb demonstration av hur marknadschefer och andra ledande marknadschefer kan använda [!DNL Marketo Measure] i sin jobbroll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){trancript=true}

@@ -1,6 +1,6 @@
 ---
 title: Pekpunkter
-description: I den här lektionen beskrivs vad kontaktytorna finns i [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] dataobjekt, inklusive [!DNL Marketo Measure] Touchpoints (BT) och [!DNL Marketo Measure] Attribution Touchpoints (BAT) införs.
+description: I den här lektionen beskrivs vilka kontaktytor som finns i  [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] dataobjekt, inklusive  [!DNL Marketo Measure] kontaktytor (BT) och [!DNL Marketo Measure] Attribution Touchpoints (BAT) som introduceras.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Pekpunkter
 
-I den här lektionen beskrivs vad kontaktytorna finns i [!DNL Marketo Measure], hur de skapas och hur de används för attribuering. [!DNL Marketo Measure] dataobjekt, inklusive [!DNL Marketo Measure] Touchpoints (BT) och [!DNL Marketo Measure] Attribution Touchpoints (BAT) införs.
+I den här lektionen beskrivs vilka kontaktytor som finns i [!DNL Marketo Measure], hur de skapas och hur de används för attribuering. [!DNL Marketo Measure] dataobjekt, inklusive [!DNL Marketo Measure] Touchpoints (BT) och [!DNL Marketo Measure] Attribution Touchpoints (BAT), introduceras.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){trancript=true}

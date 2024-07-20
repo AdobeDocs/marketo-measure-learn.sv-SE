@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Person"
-description: Läs mer om [!DNL Marketo Measure] Personobjekt och hur det skapar en sökning mellan lead- och kontaktobjekten.
+title: "[!DNL Marketo Measure] person"
+description: Lär dig mer om  [!DNL Marketo Measure] Person-objektet och hur det skapar en sökning mellan lead- och kontaktobjekten.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] Person
+# [!DNL Marketo Measure] person
 
-Läs mer om [!DNL Marketo Measure] Personobjekt och hur det skapar en sökning mellan lead- och kontaktobjekten.
+Lär dig mer om [!DNL Marketo Measure]-personobjektet och hur det skapar en sökning mellan lead- och kontaktobjekten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){trancript=true}

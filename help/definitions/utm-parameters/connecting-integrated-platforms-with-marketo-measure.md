@@ -1,6 +1,6 @@
 ---
-title: Koppla samman integrerade plattformar med [!DNL Marketo Measure]
-description: Lär dig koppla en annonsplattform till din [!DNL Marketo Measure] Konto.
+title: Ansluter integrerade plattformar med  [!DNL Marketo Measure]
+description: Lär dig hur du ansluter en annonsplattform till ditt [!DNL Marketo Measure] konto.
 jira: KT-11237
 thumbnail: 347211.jpeg
 exl-id: 6064be37-d27a-4db1-8bd1-4b70d7f99248
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Anslut integrerade plattformar med [!DNL Marketo Measure]
 
-Lär dig koppla en annonsplattform till din [!DNL Marketo Measure] Konto.
+Lär dig hur du ansluter en annonsplattform till ditt [!DNL Marketo Measure]-konto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){trancript=true}

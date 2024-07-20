@@ -1,6 +1,6 @@
 ---
 title: Leadobjekt
-description: Titta på en beskrivning av relationen mellan lead-objektet och [!DNL Marketo Measure] Pekpunktsobjekt.
+description: Titta på en beskrivning av relationen mellan lead-objektet och  [!DNL Marketo Measure] Touchpoint-objektet.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Leadobjekt
 
-Titta på en beskrivning av relationen mellan lead-objektet och [!DNL Marketo Measure] Pekpunktsobjekt.
+Titta på en beskrivning av relationen mellan lead-objektet och [!DNL Marketo Measure]-Touchpoint-objektet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){trancript=true}

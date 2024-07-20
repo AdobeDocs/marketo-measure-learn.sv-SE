@@ -1,6 +1,6 @@
 ---
-title: Skapa [!DNL Marketo Measure] konto
-description: Skapa [!DNL Marketo Measure] (tidigare Bizible) account and connect ad annons platforms (production instance).
+title: Skapa  [!DNL Marketo Measure] kontot
+description: Skapa kontot  [!DNL Marketo Measure]  (tidigare Bizible) och anslut annonsplattformar (produktionsinstans).
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa [!DNL Marketo Measure] konto
+# Skapa kontot [!DNL Marketo Measure]
 
-Lär dig hur du skapar [!DNL Marketo Measure] konto och ansluta annonsplattformar (produktionsinstans).
+Lär dig hur du skapar [!DNL Marketo Measure]-kontot och ansluter annonsplattformar (produktionsinstans).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){trancript=true}

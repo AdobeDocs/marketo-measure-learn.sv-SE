@@ -1,6 +1,6 @@
 ---
-title: The [!DNL Marketo Measure] Kontrollpaneler för avkastning
-description: I den här lektionen får du en översikt över de konfigurerbara kontrollpanelerna som finns i [!DNL Marketo Measure].
+title: ' [!DNL Marketo Measure] ROI-instrumentpaneler'
+description: I den här lektionen ges en översikt över de konfigurerbara instrumentpaneler som är tillgängliga i  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# The [!DNL Marketo Measure] Kontrollpaneler för avkastning
+# [!DNL Marketo Measure] ROI-instrumentpaneler
 
-I den här lektionen får du en översikt över de konfigurerbara kontrollpanelerna som finns i [!DNL Marketo Measure].
+I den här lektionen ges en översikt över de konfigurerbara instrumentpaneler som är tillgängliga i [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){trancript=true}

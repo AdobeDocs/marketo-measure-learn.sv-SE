@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Data"
-description: I den här lektionen får du en översikt över [!DNL Marketo Measure] datakällor som innehåller [!DNL Marketo Measure] JavaScript, API-integreringar, UTM-parametrar, CRM-data och manuellt angivna data.
+title: "[!DNL Marketo Measure] data"
+description: I den här lektionen ges en översikt över [!DNL Marketo Measure] datakällor som innehåller [!DNL Marketo Measure] JavaScript, API-integreringar, UTM-parametrar, CRM-data och manuellt angivna data.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] Data
+# [!DNL Marketo Measure] data
 
-I den här lektionen får du en översikt över [!DNL Marketo Measure] datakällor som innehåller [!DNL Marketo Measure] JavaScript, API-integreringar, UTM-parametrar, CRM-data och manuellt angivna data.
+I den här lektionen ges en översikt över [!DNL Marketo Measure] datakällor som innehåller [!DNL Marketo Measure] JavaScript, API-integreringar, UTM-parametrar, CRM-data och manuellt angivna data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){trancript=true}

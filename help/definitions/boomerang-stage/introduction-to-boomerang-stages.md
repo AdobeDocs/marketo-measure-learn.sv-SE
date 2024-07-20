@@ -1,6 +1,6 @@
 ---
 title: Introduktion till Boomerang Stages
-description: Se den första lektionen i kursserien i Boomerang. Lär dig hur du konfigurerar Boomerang-scener i [!DNL Marketo Measure].
+description: Se den första lektionen i kursserien i Boomerang. Lär dig hur du konfigurerar Boomerang-scener inom [!DNL Marketo Measure].
 jira: KT-11242
 thumbnail: 347229.jpeg
 exl-id: f8548370-e810-4ce6-8088-1d4b433e2c6e
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Introduktion till [!UICONTROL Boomerang] Steg
+# Introduktion till [!UICONTROL Boomerang] faser
 
-Se den första lektionen i kursserien i Boomerang. Lär dig hur du konfigurerar [!UICONTROL Boomerang Stages] in [!DNL Marketo Measure].
+Se den första lektionen i kursserien i Boomerang. Lär dig konfigurera [!UICONTROL Boomerang Stages] i [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){trancript=true}

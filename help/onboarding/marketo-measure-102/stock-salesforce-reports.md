@@ -1,6 +1,6 @@
 ---
 title: Salesforce-rapporter för Stock
-description: Den här lektionen handlar om fördefinierade Salesforce CRM-rapporter och dataobjekt som ingår i [!DNL Marketo Measure].
+description: Den här lektionen handlar om fördefinierade Salesforce CRM-rapporter och dataobjekt som ingår i  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video

@@ -1,6 +1,6 @@
 ---
 title: Kontoobjekt
-description: Läs mer om relationen mellan [!DNL Marketo Measure] och kontoobjektet.
+description: Lär dig mer om relationen mellan  [!DNL Marketo Measure]  och kontoobjektet.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Kontoobjekt
 
-Läs mer om relationen mellan [!DNL Marketo Measure] och kontoobjektet.
+Lär dig mer om relationen mellan [!DNL Marketo Measure] och kontoobjektet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){trancript=true}

@@ -1,6 +1,6 @@
 ---
 title: Kontaktobjekt
-description: Titta på en beskrivning av relationen mellan kontaktobjektet och [!DNL Marketo Measure] Pekpunktsobjekt och [!DNL Marketo Measure] Attribution Touchpoint-objekt.
+description: Titta på en beskrivning av relationen mellan kontaktobjektet och  [!DNL Marketo Measure] Touchpoint-objektet och  [!DNL Marketo Measure] attributets Touchpoint-objekt.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Kontaktobjekt
 
-Den här videon bryter relationen mellan kontaktobjektet och [!DNL Marketo Measure] Pekpunktsobjekt och [!DNL Marketo Measure] Attribution Touchpoint-objekt.
+I den här videon bryts relationen mellan kontaktobjektet och [!DNL Marketo Measure]-kontaktobjektet och [!DNL Marketo Measure]-attributet Touchpoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){trancript=true}

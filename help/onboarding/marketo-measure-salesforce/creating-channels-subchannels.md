@@ -1,6 +1,6 @@
 ---
 title: Skapa kanaler och delkanaler
-description: I den här lektionen beskrivs hur du skapar och underhåller hierarkier och namn för kanaler och underkanaler i [!DNL Marketo Measure].
+description: I den här lektionen beskrivs hur du skapar och underhåller kanaler- och underkanalshierarkier och namn i  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Skapa kanaler och delkanaler
 
-I den här lektionen beskrivs hur du skapar och underhåller hierarkier och namn för kanaler och underkanaler i [!DNL Marketo Measure].
+I den här lektionen beskrivs hur du skapar och underhåller kanal- och underkanalshierarkier och namn i [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){trancript=true}

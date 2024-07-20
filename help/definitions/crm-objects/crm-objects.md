@@ -1,6 +1,6 @@
 ---
 title: CRM-objekt
-description: Se en beskrivning av relationen mellan standard-CRM-objekt och [!DNL Marketo Measure] anpassade objekt och fält.
+description: Titta på en beskrivning av relationen mellan CRM-standardobjekt och  [!DNL Marketo Measure] anpassade objekt och fält.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # CRM-objekt
 
-Se en beskrivning av relationen mellan standard-CRM-objekt och [!DNL Marketo Measure] anpassade objekt och fält.
+Titta på en beskrivning av relationen mellan CRM-standardobjekt och [!DNL Marketo Measure] anpassade objekt och fält.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){trancript=true}

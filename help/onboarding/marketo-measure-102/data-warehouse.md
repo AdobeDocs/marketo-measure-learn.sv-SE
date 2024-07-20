@@ -1,6 +1,6 @@
 ---
 title: Data Warehouse
-description: I den här lektionen beskrivs [!DNL Marketo Measure] Data Warehouse och innehåller exempel som illustrerar vilka data som är tillgängliga och som rapporterar att du kan göra med ditt BI-verktyg.
+description: I den här lektionen beskrivs [!DNL Marketo Measure] Datan Warehouse och du får exempel på vilka data som är tillgängliga och hur du kan rapportera med valfritt BI-verktyg.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Data Warehouse
 
-I den här lektionen beskrivs [!DNL Marketo Measure] Data Warehouse och innehåller exempel som illustrerar vilka data som är tillgängliga och som rapporterar att du kan göra med ditt BI-verktyg.
+I den här lektionen beskrivs [!DNL Marketo Measure]-Datan Warehouse och du får exempel på vilka data som är tillgängliga och hur du kan rapportera med valfritt BI-verktyg.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){trancript=true}

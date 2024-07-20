@@ -1,5 +1,5 @@
 ---
-title: Introduktion till [!DNL Marketo Measure] Upptäck
+title: Introduktion till  [!DNL Marketo Measure] Upptäck
 description: Se en översikt över Discover och dess olika styrelser. I den här lektionen får du lära dig mer om vanliga användningsfall för rapportering för flera av Discover-panelerna och panelerna.
 jira: KT-11230
 thumbnail: 347206.jpeg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Introduktion till [!DNL Marketo Measure] [!UICONTROL Discover]
 
-Se en översikt över [!UICONTROL Discover] och dess olika styrelser. I den här lektionen får du lära dig mer om vanliga användningsfall för rapportering för flera av Discover-panelerna och panelerna.
+Titta på en översikt på hög nivå över [!UICONTROL Discover] och dess olika styrelser. I den här lektionen får du lära dig mer om vanliga användningsfall för rapportering för flera av Discover-panelerna och panelerna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){trancript=true}

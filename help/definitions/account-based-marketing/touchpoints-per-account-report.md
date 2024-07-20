@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Touchpoints per Account] rapport
+# [!UICONTROL Touchpoints per Account]-rapport
 
 I den här självstudiekursen beskrivs hur du skapar en kontaktpunktsrapport för ett konto.
 

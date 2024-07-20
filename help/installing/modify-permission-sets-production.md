@@ -1,6 +1,6 @@
 ---
 title: Ändra behörighetsuppsättningar (produktionsinstans)
-description: Lär dig hur du ändrar behörighetsuppsättningar i [!DNL Marketo Measure] (produktionsinstans).
+description: Lär dig hur du ändrar behörighetsuppsättningar i  [!DNL Marketo Measure] (produktionsinstans).
 role: User
 level: Beginner
 doc-type: Feature Video

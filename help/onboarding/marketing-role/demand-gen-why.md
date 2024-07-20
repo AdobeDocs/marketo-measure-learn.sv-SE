@@ -1,6 +1,6 @@
 ---
-title: Varför [!DNL Marketo Measure] för efterfrågegenerering/betalmedia
-description: Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för Demand Gen- och Paid Media-team.
+title: Varför [!DNL Marketo Measure] för efterfrågegenerering/betald media
+description: I den här lektionen sammanfattas  [!DNL Marketo Measure] nyckelfunktioner och värde för efterfrågegn och betald media.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Varför [!DNL Marketo Measure] för efterfrågegenerering/betalmedia
+# Varför [!DNL Marketo Measure] för efterfrågad generering/betald media
 
-Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för Demand Gen- och Paid Media-team.
+I den här lektionen sammanfattas [!DNL Marketo Measure] nyckelfunktioner och värde för efterfrågegn och betald media.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){trancript=true}

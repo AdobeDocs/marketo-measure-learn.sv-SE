@@ -1,7 +1,7 @@
 ---
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
-user-guide-description: Lär dig få ut det mesta av [!DNL Adobe Marketo Measure] (tidigare [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
+user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Adobe Marketo Measure]  (tidigare  [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
 auto-video-transcripts: true
 source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
@@ -14,11 +14,11 @@ ht-degree: 3%
 # [!DNL Marketo Measure] Självstudiekurser {#tutorials}
 
 + [[!DNL Marketo Measure] Självstudiekurser](overview.md)
-+ Installation av Marketo Measure {#install}
++ Marketo Measure-installation {#install}
    + [Installation av Marketo Measure](/help/installing/install-production.md)
    + [Ändra behörighetsgrupper](/help/installing/modify-permission-sets-production.md)
    + [Dela och dölja rapporter och kontrollpaneler](/help/installing/sharing-reports-production.md)
-   + [Skapa [!DNL Marketo Measure] konto](/help/installing/creating-marketo-measure-account-production.md)
+   + [Skapa  [!DNL Marketo Measure] kontot](/help/installing/creating-marketo-measure-account-production.md)
 + Onboarding{#onboarding}
    + Bästa praxis{#best-practices}
       + [Granska rapportinställningar (pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -32,25 +32,25 @@ ht-degree: 3%
       + [Koppling till Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Kontaktpunkter för aktivitet](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Undertryckande, segmentering och kostnad](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
-   + Marknadsföringsroll{#marketing-role}
+   + Marknadsföringsroll {#marketing-role}
       + [Varför [!DNL Marketo Measure] för marknadschefer och leverantörer](/help/onboarding/marketing-role/cmo-and-vp-why.md)
-      + [Använda [!DNL Marketo Measure] som marknadschef eller VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [Varför [!DNL Marketo Measure] för efterfrågegenerat/betalt medium](/help/onboarding/marketing-role/demand-gen-why.md)
-      + [Använd [!DNL Marketo Measure] som en efterfrågande gen/betalmediemarknadsförare](/help/onboarding/marketing-role/demand-gen-using.md)
+      + [Använda [!DNL Marketo Measure]  som marknadschef eller VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
+      + [Varför [!DNL Marketo Measure] för media som ska efterfrågas](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [Använd [!DNL Marketo Measure] som en efterfrågansgen/betald mediemarknadsförare](/help/onboarding/marketing-role/demand-gen-using.md)
       + [Varför [!DNL Marketo Measure] för innehållsmarknadsföring](/help/onboarding/marketing-role/content-marketing-why.md)
-      + [Använd [!DNL Marketo Measure] som innehållsmarknadsförare](/help/onboarding/marketing-role/content-marketing-using.md)
+      + [Använd [!DNL Marketo Measure]  som innehållsmarknadsförare](/help/onboarding/marketing-role/content-marketing-using.md)
       + [Varför [!DNL Marketo Measure] för händelsemarknadsföring](/help/onboarding/marketing-role/events-marketing-why.md)
-      + [Använd [!DNL Marketo Measure] som händelsemarknadsförare](/help/onboarding/marketing-role/events-marketing-using.md)
+      + [Använd [!DNL Marketo Measure]  som händelsemarkör](/help/onboarding/marketing-role/events-marketing-using.md)
       + [Varför [!DNL Marketo Measure] för e-postmarknadsföring](/help/onboarding/marketing-role/email-marketing-why.md)
-      + [Använd [!DNL Marketo Measure] som e-postmarknadsförare](/help/onboarding/marketing-role/email-marketing-using.md)
+      + [Använd [!DNL Marketo Measure]  som e-postmarknadsförare](/help/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101{#marketo-measure-101}
       + [Vad är attribuering](/help/onboarding/marketo-measure-101/what-is-attribution.md)
-      + [Vad är [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
+      + [Vad är  [!DNL Marketo Measure]?](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure data](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [Pekpunkter](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Attributionsmodeller](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
-      + [The [!DNL Marketo Measure] ROI-instrumentpaneler](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [Kontrollpanelerna  [!DNL Marketo Measure] ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce-rapporter för Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Ytterligare Salesforce-rapporter](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -64,8 +64,8 @@ ht-degree: 3%
    + Grundläggande{#fundamentals}
       + [Undertryckning av kontaktpunkt](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [Verksamhetstilldelning](/help/onboarding/fundamentals/activities-attribution.md)
-+ [!DNL Marketo Measure] Upptäck{#marketo-measure-discover}
-   + [Introduktion till [!DNL Marketo Measure] Upptäck](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
++ [!DNL Marketo Measure] Upptäck {#marketo-measure-discover}
+   + [Introduktion till  [!DNL Marketo Measure] Upptäck](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [Kontrollpanel för översikt](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [Identifiera attributerad intäkt](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [Upptäck ROI Dashboard](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -78,7 +78,7 @@ ht-degree: 3%
       + [Milstolpekontaktytor](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Pekpunktskomponenter](/help/definitions/touchpoints/touchpoint-components.md)
       + [Kontaktpunkter online och offline](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Attribut{#attribution}
+   + Attribution{#attribution}
       + [Vad är attribuering](/help/definitions/attribution/what-is-attribution.md)
       + [Attributionsmodeller](/help/definitions/attribution/attribution-models.md)
       + [Första pekmodellen](/help/definitions/attribution/first-touch-model.md)
@@ -87,17 +87,17 @@ ht-degree: 3%
       + [W-formad modell](/help/definitions/attribution/w-shaped-model.md)
       + [Fullständig sökvägsmodell](/help/definitions/attribution/full-path-model.md)
    + CRM-objekt{#crm-objects}
-      + [Översikt [!DNL Marketo Measure] taxonomi](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [Översikt över  [!DNL Marketo Measure] taxonomi](/help/definitions/crm-objects/taxonomy-overview.md)
       + [CRM-objekt](/help/definitions/crm-objects/crm-objects.md)
       + [Leadobjekt](/help/definitions/crm-objects/lead-object.md)
       + [Kontaktobjekt](/help/definitions/crm-objects/contact-object.md)
       + [Affärsmöjlighet, objekt](/help/definitions/crm-objects/opportunity-object.md)
-      + [BT-objekt](/help/definitions/crm-objects/bt-object.md)
-      + [BAT-objekt](/help/definitions/crm-objects/bat-object.md)
+      + [BT objekt](/help/definitions/crm-objects/bt-object.md)
+      + [BAT objekt](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM-parametrar{#utm-parameters}
-      + [Hur [!DNL Marketo Measure] taggningsarbete](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
-      + [Koppla samman integrerade plattformar med [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
+      + [Så här fungerar  [!DNL Marketo Measure] taggning](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Ansluter integrerade plattformar med  [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomi för en UTM-parameter](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM:s bästa praxis](/help/definitions/utm-parameters/utm-best-practices.md)
       + [Verktyg för automatisk taggning av UTM-parametrar](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
@@ -105,12 +105,12 @@ ht-degree: 3%
    + Kontobaserad marknadsföring{#account-based-marketing}
       + [[!UICONTROL Account Based Marketing] översikt](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Accounts with Leads and Contacts] rapport](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-      + [[!UICONTROL Touchpoints per Account] rapport](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + Boomerang Stage{#boomerang-stage}
+      + [[!UICONTROL Accounts with Leads and Contacts]-rapport](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Touchpoints per Account]-rapport](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
+   + Boomerang-scenen {#boomerang-stage}
       + [Introduktion till bommangfaser](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Konfigurera boomerang-faser](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
-+ Evangelist talar {#evangelist}
++ Evangelist pratar {#evangelist}
    + [Marknadsattribuering och mätvärden](/help/evangelist-talks/attribution-and-metrics.md)
    + [Förfallotid för marknadsattribuering](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marknadsattribuering och dataisolering](/help/evangelist-talks/marketing-attribution-and-data-silos.md)

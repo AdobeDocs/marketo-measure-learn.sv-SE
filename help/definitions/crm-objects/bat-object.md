@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Marketo Measure] Attribution Touchpoint Object"
-description: Läs mer om [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
+description: Läs mer om  [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] object
+# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] objekt
 
 Läs mer om [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 

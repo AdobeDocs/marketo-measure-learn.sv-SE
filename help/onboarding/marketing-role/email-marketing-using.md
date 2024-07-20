@@ -1,6 +1,6 @@
 ---
-title: Använda [!DNL Marketo Measure] som e-postmarknadsförare
-description: I den här lektionen får du en snabb demonstration av hur e-postmarknadsförare kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+title: Använda  [!DNL Marketo Measure]  som e-postmarknadsförare
+description: I den här lektionen får du en snabb demonstration av hur e-postmarknadsförare kan använda  [!DNL Marketo Measure]  i sin jobbroll.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Använda [!DNL Marketo Measure] som e-postmarknadsförare
 
-I den här lektionen får du en snabb demonstration av hur e-postmarknadsförare kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+I den här lektionen visas hur e-postmarknadsförare kan använda [!DNL Marketo Measure] i sin jobbroll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){trancript=true}

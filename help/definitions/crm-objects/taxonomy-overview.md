@@ -1,6 +1,6 @@
 ---
-title: Översikt [!DNL Marketo Measure] taxonomi
-description: Se en översikt över hur [!DNL Marketo Measure] samlar in och bearbetar data med hjälp av olika indata för att tillhandahålla attribueringsdata.
+title: Översikt över  [!DNL Marketo Measure] taxonomi
+description: Titta på en översikt över hur  [!DNL Marketo Measure] samlar in och bearbetar data med olika indata för att tillhandahålla attribueringsdata.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Översikt [!DNL Marketo Measure] taxonomi
+# Översikt över taxonomin [!DNL Marketo Measure]
 
-Få en översikt över hur [!DNL Marketo Measure] samlar in och bearbetar data med hjälp av olika indata för att tillhandahålla attribueringsdata.
+Få en översikt över hur [!DNL Marketo Measure] samlar in och bearbetar data med olika indata för att tillhandahålla attribueringsdata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){trancript=true}

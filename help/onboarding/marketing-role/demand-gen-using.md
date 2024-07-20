@@ -1,6 +1,6 @@
 ---
-title: Använda [!DNL Marketo Measure] som en efterfrågegn/betald mediemarknadsförare
-description: I den här lektionen får du en snabb demonstration av hur team som arbetar med efterfrågegn och betalmedia kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+title: Använda  [!DNL Marketo Measure]  som efterfrågegång/betald mediemarknadsförare
+description: I den här lektionen får du en snabb demonstration av hur team som arbetar med efterfrågegn och betalmedia kan använda  [!DNL Marketo Measure]  i sin jobbroll.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Använda [!DNL Marketo Measure] som en efterfrågegn/betald mediemarknadsförare
+# Använda [!DNL Marketo Measure] som efterfrågegång/betald mediemarknadsförare
 
-I den här lektionen får du en snabb demonstration av hur team som arbetar med efterfrågegn och betalmedia kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+I den här lektionen får du en snabb demonstration av hur team med efterfrågegn och betald media kan använda [!DNL Marketo Measure] i sin jobbroll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){trancript=true}

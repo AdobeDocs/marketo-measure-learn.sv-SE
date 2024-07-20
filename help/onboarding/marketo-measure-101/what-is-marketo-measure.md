@@ -1,5 +1,5 @@
 ---
-title: Vad är [!DNL Marketo Measure]
+title: Vad är  [!DNL Marketo Measure]?
 description: Den här lektionen ger en kort introduktion till vad Marketo Measure gör och varför.
 role: User
 level: Beginner

@@ -1,6 +1,6 @@
 ---
 title: Affärsmöjlighet, objekt
-description: Se hur relationen mellan [!DNL Marketo Measure] och objektet säljprojekt.
+description: Titta på en beskrivning av relationen mellan  [!DNL Marketo Measure]  och objektet säljprojekt.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Affärsmöjlighet, objekt
 
-Se hur relationen mellan [!DNL Marketo Measure] och objektet säljprojekt.
+Titta på en beskrivning av relationen mellan [!DNL Marketo Measure] och objektet säljprojekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){trancript=true}

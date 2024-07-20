@@ -1,6 +1,6 @@
 ---
 title: Varför [!DNL Marketo Measure] för innehållsmarknadsföring
-description: Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för Content Marketing teams.
+description: I den här lektionen sammanfattas  [!DNL Marketo Measure] nyckelfunktioner och värde för Content Marketing teams.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Varför [!DNL Marketo Measure] för innehållsmarknadsföring
 
-Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för Content Marketing teams.
+I den här lektionen sammanfattas [!DNL Marketo Measure] nyckelfunktioner och värde för Content Marketing teams.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){trancript=true}

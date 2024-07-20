@@ -1,6 +1,6 @@
 ---
 title: Mappa offlinekanaler
-description: I den här lektionen beskrivs hur du mappar offlinekanaler till [!DNL Marketo Measure] med Salesforce Campaign-objektet och kampanjtypsfältet.
+description: I den här lektionen beskrivs mappningen av offlinekanaler till  [!DNL Marketo Measure]  med Salesforce Campaign-objektet och kampanjtypsfältet.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Mappa offlinekanaler
 
-I den här lektionen beskrivs hur du mappar offlinekanaler till [!DNL Marketo Measure] med Salesforce Campaign-objektet och kampanjtypsfältet.
+I den här lektionen beskrivs mappningen av offlinekanaler till [!DNL Marketo Measure] med Salesforce Campaign-objektet och kampanjtypsfältet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){trancript=true}

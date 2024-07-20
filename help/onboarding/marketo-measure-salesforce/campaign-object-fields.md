@@ -1,6 +1,6 @@
 ---
 title: Kampanjobjektfält
-description: Den här lektionen handlar om Salesforce CRM Campaign-objektfält som [!DNL Marketo Measure] används för att kartlägga kampanjer och kampanjmedlemmar i marknadsföringskanaler. Att förstå vad dessa kampanjobjekt gör är viktigt när ni hanterar och mappar era offlinekanaler i [!DNL Marketo Measure].
+description: Den här lektionen handlar om Salesforce CRM Campaign-objektfält som  [!DNL Marketo Measure]  använder för att mappa kampanjer och kampanjmedlemmar till marknadsföringskanaler. Det är viktigt att du förstår vad dessa kampanjobjekt gör när du hanterar och mappar offlinekanaler i  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Kampanjobjektfält
 
-Den här lektionen handlar om Salesforce CRM Campaign-objektfält som [!DNL Marketo Measure] används för att kartlägga kampanjer och kampanjmedlemmar i marknadsföringskanaler. Att förstå vad dessa kampanjobjekt gör är viktigt när ni hanterar och mappar era offlinekanaler i [!DNL Marketo Measure].
+Den här lektionen handlar om Salesforce CRM Campaign-objektfält som [!DNL Marketo Measure] använder för att mappa kampanjer och kampanjmedlemmar till marknadsföringskanaler. Det är viktigt att du förstår vad dessa kampanjobjekt gör när du hanterar och mappar offlinekanaler i [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){trancript=true}

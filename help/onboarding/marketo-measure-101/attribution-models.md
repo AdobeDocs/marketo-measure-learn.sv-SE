@@ -1,6 +1,6 @@
 ---
 title: Attributionsmodeller
-description: I den här lektionen definieras attribueringsmodeller, som förklarar de olika modellerna som ingår i [!DNL Marketo Measure]och när ska du använda var och en av dem.  Standardregelbaserade modeller, anpassade modeller och AI/ML-rekommendationer beskrivs.
+description: I den här lektionen definieras attribueringsmodeller, de olika modellerna som ingår i  [!DNL Marketo Measure] och när de ska användas.  Standardregelbaserade modeller, anpassade modeller och AI/ML-rekommendationer beskrivs.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Attributionsmodeller
 
-I den här lektionen definieras attribueringsmodeller, som förklarar de olika modellerna som ingår i [!DNL Marketo Measure]och när ska du använda var och en av dem.  Standardregelbaserade modeller, anpassade modeller och AI/ML-rekommendationer beskrivs.
+I den här lektionen definieras attribueringsmodeller, de olika modellerna som ingår i [!DNL Marketo Measure] och när de ska användas.  Standardregelbaserade modeller, anpassade modeller och AI/ML-rekommendationer beskrivs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){trancript=true}

@@ -1,6 +1,6 @@
 ---
 title: Varför [!DNL Marketo Measure] för händelsemarknadsföring
-description: Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för Events Marketing-team.
+description: I den här lektionen sammanfattas  [!DNL Marketo Measure] nyckelfunktioner och värde för Events Marketing-team.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Varför [!DNL Marketo Measure] för händelsemarknadsföring
 
-Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för Events Marketing-team.
+I den här lektionen sammanfattas [!DNL Marketo Measure] nyckelfunktioner och värde för Events Marketing-team.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){trancript=true}

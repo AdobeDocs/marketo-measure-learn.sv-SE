@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Verksamhetsattribut
 
-Den här lektionen handlar om [!UICONTROL Activities Attribution]. Med den här funktionen kan du skapa kontaktpunkter från aktivitetsobjektet i Salesforce via poster för aktiviteter eller händelser.
+Den här lektionen omfattar [!UICONTROL Activities Attribution]. Med den här funktionen kan du skapa kontaktpunkter från aktivitetsobjektet i Salesforce via poster för aktiviteter eller händelser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){trancript=true}

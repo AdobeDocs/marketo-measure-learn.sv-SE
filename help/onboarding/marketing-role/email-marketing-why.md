@@ -1,6 +1,6 @@
 ---
 title: Varför [!DNL Marketo Measure] för e-postmarknadsföring
-description: Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för e-postmarknadsförare.
+description: I den här lektionen sammanfattas  [!DNL Marketo Measure] nyckelfunktioner och värde för e-postmarknadsförare.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Varför [!DNL Marketo Measure] för e-postmarknadsföring
 
-Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för e-postmarknadsförare.
+I den här lektionen sammanfattas [!DNL Marketo Measure] nyckelfunktioner och värde för e-postmarknadsförare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){trancript=true}

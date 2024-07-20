@@ -1,6 +1,6 @@
 ---
 title: UTM:s bästa praxis
-description: Läs mer om [!DNL Marketo Measure] UTM:s bästa praxis.
+description: Lär dig mer om  [!DNL Marketo Measure] UTM:s bästa praxis.
 jira: KT-11236
 thumbnail: 347203.jpeg
 exl-id: dba19be5-2adf-49b5-b726-eecd77e47aa5
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # UTM:s bästa praxis
 
-Läs mer om [!DNL Marketo Measure] UTM:s bästa praxis.
+Lär dig mer om [!DNL Marketo Measure] UTM-rutiner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347203/?learn=on){trancript=true}

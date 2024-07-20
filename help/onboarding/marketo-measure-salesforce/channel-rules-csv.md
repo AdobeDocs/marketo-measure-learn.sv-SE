@@ -1,6 +1,6 @@
 ---
 title: Konfigurera kanalregler med en CSV-fil
-description: I den här lektionen beskrivs hur du konfigurerar [!DNL Marketo Measure] kanalregler med en CSV-fil.
+description: I den här lektionen beskrivs hur du konfigurerar  [!DNL Marketo Measure] kanalregler med en CSV-fil.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Konfigurera kanalregler med en CSV-fil
 
-I den här lektionen beskrivs hur du konfigurerar [!DNL Marketo Measure] kanalregler med en CSV-fil.
+I den här lektionen beskrivs hur du konfigurerar [!DNL Marketo Measure]-kanalregler med en CSV-fil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){trancript=true}

@@ -1,6 +1,6 @@
 ---
 title: Varför [!DNL Marketo Measure] för marknadschefer och leverantörer
-description: Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för marknadschefer och andra ledande marknadsaktörer.
+description: I den här lektionen sammanfattas  [!DNL Marketo Measure] nyckelfunktioner och värde för marknadschefer och andra ledande marknadsaktörer.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Varför [!DNL Marketo Measure] för marknadschefer och leverantörer
 
-Den här lektionen sammanfattar [!DNL Marketo Measure]De viktigaste funktionerna och värdet för marknadschefer och andra ledande marknadsaktörer.
+I den här lektionen sammanfattas [!DNL Marketo Measure] nyckelfunktioner och värde för marknadschefer och andra ledande marknadsaktörer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){trancript=true}

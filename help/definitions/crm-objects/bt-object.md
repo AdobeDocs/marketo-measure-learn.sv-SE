@@ -1,6 +1,6 @@
 ---
 title: Marketo Measure Touchpoint-objekt
-description: Läs mer om [!DNL Marketo Measure] Kontaktpunkt.
+description: Lär dig mer om en  [!DNL Marketo Measure] kontaktyta.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Marketo Measure Touchpoint-objekt
 
-Läs mer om [!DNL Marketo Measure] Kontaktpunkt.
+Läs mer om en [!DNL Marketo Measure]-kontaktyta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){trancript=true}

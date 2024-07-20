@@ -1,6 +1,6 @@
 ---
-title: Använda [!DNL Marketo Measure] som en innehållsmarknadsförare
-description: I den här lektionen får du en snabb demonstration av hur Content Marketers kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+title: Använda  [!DNL Marketo Measure]  som innehållsmarknadsförare
+description: I den här lektionen får du en snabb demonstration av hur Content Marketers kan använda  [!DNL Marketo Measure]  i sin jobbroll.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Använda [!DNL Marketo Measure] som en innehållsmarknadsförare
+# Använda [!DNL Marketo Measure] som innehållsmarknadsförare
 
-I den här lektionen får du en snabb demonstration av hur Content Marketers kan använda [!DNL Marketo Measure] i sin roll som arbetsuppgift.
+I den här lektionen får du en snabb demonstration av hur Content Marketers kan använda [!DNL Marketo Measure] i sin jobbroll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){trancript=true}

@@ -1,6 +1,6 @@
 ---
 title: Rapport över konton med leads och kontakter
-description: Läs mer om [!UICONTROL Account and Leads Contacts] tillsammans med informationen för båda och hur de ansluts.
+description: Lär dig mer om rapporten [!UICONTROL Account and Leads Contacts] tillsammans med informationen för båda och hur den kopplar dessa objekt.
 jira: KT-11239
 thumbnail: 347220.jpeg
 exl-id: dc27ad9a-dd09-4662-8dfd-cb237d66c893
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Account and Leads Contacts] rapport
+# [!UICONTROL Account and Leads Contacts]-rapport
 
-I den här självstudiekursen beskrivs [!UICONTROL Account and Leads Contacts] tillsammans med informationen för båda och hur de ansluts.
+I den här självstudiekursen beskrivs rapporten [!UICONTROL Account and Leads Contacts] tillsammans med informationen för båda och hur den kopplar samman dessa objekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){trancript=true}

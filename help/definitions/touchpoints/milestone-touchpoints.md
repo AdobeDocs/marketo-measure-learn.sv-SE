@@ -1,6 +1,6 @@
 ---
 title: Milstolpekontaktytor
-description: Läs om de största milstolparna i [!DNL Marketo Measure] och hur de skapas.
+description: Lär dig mer om de största milstolparna i [!DNL Marketo Measure]  och hur de skapas.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Milstolpekontaktytor
 
-Läs om de största milstolparna i [!DNL Marketo Measure] och hur de skapas.
+Lär dig mer om huvudmilstolparna i [!DNL Marketo Measure] och hur de skapas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){trancript=true}

@@ -1,6 +1,6 @@
 ---
 title: Synkronisera offlinekampanjer
-description: Den här lektionen handlar om hur du synkroniserar Salesforce CRM-kampanjer med [!DNL Marketo Measure] - enskilt eller i bulk.
+description: Den här lektionen handlar om hur du synkroniserar Salesforce CRM-kampanjer med  [!DNL Marketo Measure]  - individuellt eller gruppvis.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Synkronisera offlinekampanjer
 
-Den här lektionen handlar om hur du synkroniserar Salesforce CRM-kampanjer med [!DNL Marketo Measure] - enskilt eller i bulk.
+I den här lektionen beskrivs hur du synkroniserar Salesforce CRM-kampanjer med [!DNL Marketo Measure] - enskilt eller gruppvis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){trancript=true}

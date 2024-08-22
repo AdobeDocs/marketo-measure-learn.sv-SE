@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Adobe Marketo Measure]  (tidigare  [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
 auto-video-transcripts: true
-source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
+source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '347'
 ht-degree: 3%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 3%
    + [Ändra behörighetsgrupper](/help/installing/modify-permission-sets-production.md)
    + [Dela och dölja rapporter och kontrollpaneler](/help/installing/sharing-reports-production.md)
    + [Skapa  [!DNL Marketo Measure] kontot](/help/installing/creating-marketo-measure-account-production.md)
-+ Onboarding{#onboarding}
-   + Bästa praxis{#best-practices}
++ Onboarding {#onboarding}
+   + Bästa praxis {#best-practices}
       + [Granska rapportinställningar (pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Granska inställningar för kanaler och integrering (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [CRM-inställningar (pt.3)](/help/onboarding/fundamentals/crm-settings.md)
@@ -43,13 +43,13 @@ ht-degree: 3%
       + [Använd [!DNL Marketo Measure]  som händelsemarkör](/help/onboarding/marketing-role/events-marketing-using.md)
       + [Varför [!DNL Marketo Measure] för e-postmarknadsföring](/help/onboarding/marketing-role/email-marketing-why.md)
       + [Använd [!DNL Marketo Measure]  som e-postmarknadsförare](/help/onboarding/marketing-role/email-marketing-using.md)
-   + [!DNL Marketo Measure] 101{#marketo-measure-101}
+   + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [Vad är attribuering](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [Vad är  [!DNL Marketo Measure]?](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure data](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [Pekpunkter](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Attributionsmodeller](/help/onboarding/marketo-measure-101/attribution-models.md)
-   + [!DNL Marketo Measure] 102{#marketo-measure-102}
+   + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [Kontrollpanelerna  [!DNL Marketo Measure] ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce-rapporter för Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Ytterligare Salesforce-rapporter](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
@@ -72,13 +72,13 @@ ht-degree: 3%
    + [Bestäm vilken kanal som fungerar (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bestäm vilken kanal som fungerar (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover Trnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ Definitioner{#definitions}
++ Definitioner {#definitions}
    + Pekpunkter{#touchpoints}
       + [Vad är en kontaktyta?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Milstolpekontaktytor](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Pekpunktskomponenter](/help/definitions/touchpoints/touchpoint-components.md)
       + [Kontaktpunkter online och offline](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Attribution{#attribution}
+   + Attribution {#attribution}
       + [Vad är attribuering](/help/definitions/attribution/what-is-attribution.md)
       + [Attributionsmodeller](/help/definitions/attribution/attribution-models.md)
       + [Första pekmodellen](/help/definitions/attribution/first-touch-model.md)
@@ -86,7 +86,7 @@ ht-degree: 3%
       + [U-formad modell](/help/definitions/attribution/u-shaped-model.md)
       + [W-formad modell](/help/definitions/attribution/w-shaped-model.md)
       + [Fullständig sökvägsmodell](/help/definitions/attribution/full-path-model.md)
-   + CRM-objekt{#crm-objects}
+   + CRM-objekt {#crm-objects}
       + [Översikt över  [!DNL Marketo Measure] taxonomi](/help/definitions/crm-objects/taxonomy-overview.md)
       + [CRM-objekt](/help/definitions/crm-objects/crm-objects.md)
       + [Leadobjekt](/help/definitions/crm-objects/lead-object.md)
@@ -95,14 +95,14 @@ ht-degree: 3%
       + [BT objekt](/help/definitions/crm-objects/bt-object.md)
       + [BAT objekt](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
-   + UTM-parametrar{#utm-parameters}
+   + UTM-parametrar {#utm-parameters}
       + [Så här fungerar  [!DNL Marketo Measure] taggning](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Ansluter integrerade plattformar med  [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomi för en UTM-parameter](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM:s bästa praxis](/help/definitions/utm-parameters/utm-best-practices.md)
       + [Verktyg för automatisk taggning av UTM-parametrar](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM-taggning](/help/definitions/utm-parameters/utm-tagging.md)
-   + Kontobaserad marknadsföring{#account-based-marketing}
+   + Kontobaserad marknadsföring {#account-based-marketing}
       + [[!UICONTROL Account Based Marketing] översikt](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts]-rapport](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
@@ -110,6 +110,9 @@ ht-degree: 3%
    + Boomerang-scenen {#boomerang-stage}
       + [Introduktion till bommangfaser](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Konfigurera boomerang-faser](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Marketo Measure Ultimate {#marketo-measure-ultimate}
+   + [Marketo Measure Ultimate - översikt](/help/marketo-measure-ultimate/overview.md)
+   + [Översikt över Attribution AI](/help/marketo-measure-ultimate/attribution-ai-overview.md)
 + Evangelist pratar {#evangelist}
    + [Marknadsattribuering och mätvärden](/help/evangelist-talks/attribution-and-metrics.md)
    + [Förfallotid för marknadsattribuering](/help/evangelist-talks/marketing-attribution-maturity.md)

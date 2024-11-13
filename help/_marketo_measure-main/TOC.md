@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Adobe Marketo Measure]  (tidigare  [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
 auto-video-transcripts: true
-source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
+source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '350'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 3%
 # [!DNL Marketo Measure] Självstudiekurser {#tutorials}
 
 + [[!DNL Marketo Measure] Självstudiekurser](overview.md)
++ [Marketo Measure - översikt](/help/marketo-measure-overview.md)
 + Marketo Measure-installation {#install}
    + [Installation av Marketo Measure](/help/installing/install-production.md)
    + [Ändra behörighetsgrupper](/help/installing/modify-permission-sets-production.md)
@@ -27,7 +28,7 @@ ht-degree: 3%
       + [Inställningar för leads, kontakter och säljprojekt](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
       + [Inställningar för onlinekanal](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Översikt över annonsanslutning](/help/onboarding/fundamentals/ads-connection-overview.md)
-      + [SFDC-installationsöversikt](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [SFDC installationsöversikt](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Inställningar för offlinekanal](/help/onboarding/fundamentals/offline-channel-setup.md)
       + [Koppling till Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Kontaktpunkter för aktivitet](/help/onboarding/fundamentals/activity-touchpoints.md)
@@ -51,8 +52,8 @@ ht-degree: 3%
       + [Attributionsmodeller](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [Kontrollpanelerna  [!DNL Marketo Measure] ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
-      + [Salesforce-rapporter för Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
-      + [Ytterligare Salesforce-rapporter](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
+      + [Stock Salesforce-rapporter](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
+      + [Fler Salesforce-rapporter](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] och Salesforce{#marketo-measure-salesforce}
       + [Leads efter ID-rapport](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)

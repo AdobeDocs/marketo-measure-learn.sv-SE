@@ -1,6 +1,6 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutorials"
-breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-title: '[!DNL Marketo Measure] Självstudiekurser'
+breadcrumb-title: '[!DNL Marketo Measure] Självstudiekurser'
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Adobe Marketo Measure]  (tidigare  [!DNL Bizible]). Titta på självstudiekurser om installation, introduktion, grundläggande information och definitioner.
 auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259

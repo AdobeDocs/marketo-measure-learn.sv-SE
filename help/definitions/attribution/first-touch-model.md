@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här videon innehåller en detaljerad förklaring av den första pekmodellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432099/?learn=on&captions=swe){trancript=true}

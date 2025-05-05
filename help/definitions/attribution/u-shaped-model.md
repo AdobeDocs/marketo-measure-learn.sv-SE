@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här videon innehåller en detaljerad förklaring av den U-formade modellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432087/?learn=on&captions=swe){trancript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Få en översikt över hur [!DNL Marketo Measure] samlar in och bearbetar data med olika indata för att tillhandahålla attribueringsdata.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432026/?learn=on&captions=swe){trancript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Se den första lektionen i kursserien i Boomerang. Lär dig konfigurera [!UICONTROL Boomerang Stages] i [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431584/?learn=on&captions=swe){trancript=true}

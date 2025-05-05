@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här videon innehåller en detaljerad förklaring av den W-formade modellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432080/?learn=on&captions=swe){trancript=true}

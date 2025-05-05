@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Avkastningsoptimeringen ger marknadsförarna en detaljerad bild av avkastningen på investeringar i olika kanaler, underkanaler och kampanjer. Den bryter noggrant ned kostnads- och intäktsmönster och lyfter också fram mätvärden som kostnad per lead, erbjudande och möjlighet, vilket ger en heltäckande bild av marknadsattribueringen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449468/?learn=on&captions=swe){trancript=true}

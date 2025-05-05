@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Granskning av aktivitetsinställningar i Marketo Measure. Det här går igenom Marketo Engage- och CRM-aktiviteter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453217/?learn=on&captions=swe){trancript=true}

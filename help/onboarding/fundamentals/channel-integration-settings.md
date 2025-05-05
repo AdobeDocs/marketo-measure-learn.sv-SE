@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Översikt över Channel- och Integration-inställningarna i Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452375/?learn=on&captions=swe){trancript=true}

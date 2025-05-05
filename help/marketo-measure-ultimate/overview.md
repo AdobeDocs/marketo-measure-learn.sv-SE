@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Läs om hur B2B-marknadsförare med Marketo Measure Ultimate kan samla in data från nästan alla källor, inklusive flera källor av samma typ, för grundlig attribuering. Detta ger B2B-marknadsförarna tillgång till avancerad analys och insikter för att förbättra sina marknadsföringsstrategier och öka tillväxten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446468/?learn=on&captions=swe)

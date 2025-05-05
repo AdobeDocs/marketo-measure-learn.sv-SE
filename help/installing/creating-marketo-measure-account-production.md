@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar [!DNL Marketo Measure]-kontot och ansluter annonsplattformar (produktionsinstans).
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431535/?learn=on&captions=swe){trancript=true}

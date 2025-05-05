@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Översikt över Marketo Measure Suppression, Segmentation and Cost.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453228/?learn=on&captions=swe){trancript=true}

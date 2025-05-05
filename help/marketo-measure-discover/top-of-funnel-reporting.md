@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Den här videon går igenom en trattrapport som i sin tur visar om Marketo Measure håller på att spåra, om du genererar leads och om kanalkonfigurationen är korrekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441784/?learn=on&captions=swe){trancript=true}

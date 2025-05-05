@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här lektionen beskrivs hur du skapar och underhåller kanal- och underkanalshierarkier och namn i [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431562/?learn=on&captions=swe){trancript=true}

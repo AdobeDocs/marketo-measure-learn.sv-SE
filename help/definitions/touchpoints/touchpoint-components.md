@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Få en beskrivning av de olika komponenterna i kontaktytor och hur de definieras. I det här exemplet bryts komponenter i både BT och BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437616/?learn=on&captions=swe){trancript=true}

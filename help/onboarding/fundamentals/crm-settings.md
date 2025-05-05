@@ -21,4 +21,4 @@ ht-degree: 0%
 
 En granskning av CRM-inställningen i Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451742/?learn=on&captions=swe){trancript=true}

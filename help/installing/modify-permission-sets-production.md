@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du ändrar behörighetsuppsättningar i [!DNL Marketo Measure] (produktionsinstans).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431528/?learn=on&captions=swe){trancript=true}

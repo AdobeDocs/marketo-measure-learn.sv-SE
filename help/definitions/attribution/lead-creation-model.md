@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här videon innehåller en detaljerad förklaring av Lead Creation Model.
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432091/?learn=on&captions=swe){trancript=true}

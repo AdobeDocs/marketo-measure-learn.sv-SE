@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig mer om onlinekanaler, hur du skapar kanaler och kalkylbladet för onlinekanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454150/?learn=on&captions=swe){trancript=true}

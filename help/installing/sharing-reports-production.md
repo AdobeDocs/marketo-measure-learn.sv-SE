@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här lektionen handlar om visning och delning av rapporter och kontrollpaneler.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431546/?learn=on&captions=swe){trancript=true}

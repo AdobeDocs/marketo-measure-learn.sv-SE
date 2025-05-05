@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Andy Schneider, Adobe Solutions Consultant och Ian Michels, Adobe Marketo-evangelist, diskuterar skillnaden mellan marknadsföringsattribuering och marknadsföringsstatistik. Det finns rapporteringsprogram på marknaden som säger att de är attribuerade, men i själva verket rapporterar de om marknadsföringsstatistik. I den här diskussionen får du lära dig vilka frågor du ska ställa under försäljningsprocessen, hur du ska dechiffrera vilken programvara som är marknadsattribuering eller mätvärdesspecifik och hur du ska skala era marknadsföringsbehov.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425898/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455503/?learn=on&captions=swe)
 
 ## Viktiga punkter i diskussionen
 

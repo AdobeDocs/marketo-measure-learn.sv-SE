@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Installationshandbok för Marketo Measure Offline Channel
 
->[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454617/?learn=on&captions=swe){trancript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här lektionen beskrivs hur du konfigurerar [!DNL Marketo Measure]-kanalregler med en CSV-fil.
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431556/?learn=on&captions=swe){trancript=true}

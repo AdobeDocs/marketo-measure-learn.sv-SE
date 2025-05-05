@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här lektionen beskrivs hur du konfigurerar kontaktpunktsundertryckningsregler i Salesforce CRM och vanliga orsaker till varför du gör det.
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432017/?learn=on&captions=swe){trancript=true}

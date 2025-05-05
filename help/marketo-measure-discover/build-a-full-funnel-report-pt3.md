@@ -21,4 +21,4 @@ ht-degree: 0%
 
 I den här rapporten tar vi en titt på en fullständig trattrapport. Den här Discover-rapporten spårar från början till slut vilka kanaler som använts och tilldelar sedan dessa kanaler möjligheter och/eller intäkter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443755/?learn=on&captions=swe){trancript=true}

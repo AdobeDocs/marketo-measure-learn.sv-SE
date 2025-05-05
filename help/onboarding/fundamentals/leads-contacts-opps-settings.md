@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Granska CRM-inställningsleads, kontakter och säljprojekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453723/?learn=on&captions=swe){trancript=true}

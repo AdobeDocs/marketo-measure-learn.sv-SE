@@ -16,4 +16,4 @@ ht-degree: 0%
 
 En översikt på hög nivå över [!UICONTROL Account by Engagement Score].  I den här självstudiekursen diskuteras vilka mätvärden som läggs in i det här poängen och rapporten som hör ihop med det.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432126/?learn=on&captions=swe){trancript=true}

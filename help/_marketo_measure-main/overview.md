@@ -26,5 +26,5 @@ Den här användarhandboken innehåller videor och självstudiekurser om Marketo
 
 ## Experience League Live-event
 
-* **[Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *Lär dig mer om de nya, helt omgjorda Discover Dashboards.*

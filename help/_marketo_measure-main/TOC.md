@@ -119,4 +119,4 @@ ht-degree: 3%
    + [Förfallotid för marknadsattribuering](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marknadsattribuering och dataisolering](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live-inspelningar{#experience-league-live-recordings}
-   + [Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)

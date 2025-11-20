@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 + [[!DNL Marketo Measure] Självstudiekurser](overview.md)
 + [Marketo Measure - översikt](/help/marketo-measure-overview.md)
-+ Marketo Measure-installation {#install}
++ Installation av Marketo Measure {#install}
    + [Installation av Marketo Measure](/help/installing/install-production.md)
    + [Ändra behörighetsgrupper](/help/installing/modify-permission-sets-production.md)
    + [Dela och dölja rapporter och kontrollpaneler](/help/installing/sharing-reports-production.md)
@@ -30,7 +30,7 @@ ht-degree: 3%
       + [Översikt över annonsanslutning](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [SFDC installationsöversikt](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Inställningar för offlinekanal](/help/onboarding/fundamentals/offline-channel-setup.md)
-      + [Koppling till Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [Uppkoppling med Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Kontaktpunkter för aktivitet](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Undertryckande, segmentering och kostnad](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Marknadsföringsroll {#marketing-role}
@@ -72,14 +72,14 @@ ht-degree: 3%
    + [Upptäck ROI Dashboard](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Bestäm vilken kanal som fungerar (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bestäm vilken kanal som fungerar (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [Discover Trnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
+   + [Upptäck Funnel Reporting (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definitioner {#definitions}
    + Pekpunkter{#touchpoints}
       + [Vad är en kontaktyta?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Milstolpekontaktytor](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Pekpunktskomponenter](/help/definitions/touchpoints/touchpoint-components.md)
       + [Kontaktpunkter online och offline](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Attribution {#attribution}
+   + Tillskrivning {#attribution}
       + [Vad är attribuering](/help/definitions/attribution/what-is-attribution.md)
       + [Attributionsmodeller](/help/definitions/attribution/attribution-models.md)
       + [Första pekmodellen](/help/definitions/attribution/first-touch-model.md)
@@ -93,8 +93,8 @@ ht-degree: 3%
       + [Leadobjekt](/help/definitions/crm-objects/lead-object.md)
       + [Kontaktobjekt](/help/definitions/crm-objects/contact-object.md)
       + [Affärsmöjlighet, objekt](/help/definitions/crm-objects/opportunity-object.md)
-      + [BT objekt](/help/definitions/crm-objects/bt-object.md)
-      + [BAT objekt](/help/definitions/crm-objects/bat-object.md)
+      + [BT-objekt](/help/definitions/crm-objects/bt-object.md)
+      + [BAT-objekt](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM-parametrar {#utm-parameters}
       + [Så här fungerar  [!DNL Marketo Measure] taggning](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
@@ -108,15 +108,15 @@ ht-degree: 3%
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts]-rapport](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account]-rapport](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + Boomerang-scenen {#boomerang-stage}
+   + Boomerang Stage {#boomerang-stage}
       + [Introduktion till bommangfaser](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Konfigurera boomerang-faser](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
    + [Marketo Measure Ultimate - översikt](/help/marketo-measure-ultimate/overview.md)
-   + [Översikt över Attribution AI](/help/marketo-measure-ultimate/attribution-ai-overview.md)
-+ Evangelist pratar {#evangelist}
+   + [AI-översikt för attribut](/help/marketo-measure-ultimate/attribution-ai-overview.md)
++ Evangelist talar {#evangelist}
    + [Marknadsattribuering och mätvärden](/help/evangelist-talks/attribution-and-metrics.md)
    + [Förfallotid för marknadsattribuering](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marknadsattribuering och dataisolering](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live-inspelningar{#experience-league-live-recordings}
-   + [Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure nya Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
